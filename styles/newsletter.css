@@ -68,6 +68,10 @@
     width: 30%;
   }
 
+  .lista__rodape {
+    display: block;
+  }
+
   .rodape {
     display: flex;
     justify-content: space-around;
@@ -104,6 +108,10 @@
 @media screen and (min-width: 1728px) {
   .newsletter {
     padding: 3em 20vw;
+  }
+
+  .lista__rodape {
+    display: block;
   }
 
   .lista__rodape {
